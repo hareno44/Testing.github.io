@@ -8,8 +8,8 @@ body {background-image: url(CoffeePSD2.jpg)} </>
       <div id="navbar">
         <ul>
           <li><a href="home.html">Home</a></li>
-          <li><a href="archandart.html">Architecture and Art</a></li>
-          <li><a href="uidesign.html">Front End Design</a></li>
+          <li><a href="archandart.html">Architecture Projects</a></li>
+          <li><a href="uidesign.html">Design Projects</a></li>
           <li><a href="resume.html">Resume</a></li>
         </ul>
       </div>
