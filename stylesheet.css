@@ -23,7 +23,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #2a2a2a;
 }
 
 li{
@@ -33,22 +33,35 @@ li{
   color: #ffffff; 
   background-color: #2a2a2a
 
-div div li a{
+a{
    font-family: Helvetica, sans-serif;
-	font-color: #e1e1e1;
+   font-color: #e1e1e1;
+   text-decoration: none;
 }
 
-/*h1 {font-family:Helvetica; font size: 16px; color:black; text-align: center;}
-h2 {font-family:georgia; font size: 14px; color:black;}
-h3 {font-family:georgia; font size: 13.5px; color:black;}
-h4 {font-family:georgia; font size: 13px; color:black}
-p {font-family:Veranda, Geneva, sans-serif; font-size: 14px; line-height: 1.5; color: #000000;}
-title {font-family:georgia; font size: 20px; color:black}
+h1{
+   font-family: Helvetica, sans-serif;
+   font-color: #2a2a2a;
+}
 
-a:link {font-weight: bold; text-decoration: none; color: #1a29b1;}*/
-a:visited {font-weight: bold; text-decoration: none; color: #0b6f3a;}
-a:hover {text-decoration: underline; color: #1a29b1; font-size: 0.9em; font-family: Veranda, Geneva, sans-serif;}
+p{
+   font-family: georgia;
+   font-color: #2a2a2a;
+}
+
+/*h1 {font-family:Helvetica; font size: 16px; color:black; text-align: center;}*/
+/*h2 {font-family:georgia; font size: 14px; color:black;}*/
+/*h3 {font-family:georgia; font size: 13.5px; color:black;}*/
+/*h4 {font-family:georgia; font size: 13px; color:black}*/
+/*p {font-family:Veranda, Geneva, sans-serif; font-size: 14px; line-height: 1.5; color: #000000;}*/
+/*title {font-family:georgia; font size: 20px; color:black}*/
+
+/*a:link {font-weight: bold; text-decoration: none; color: #e1e1e1;}*/
+a:visited {font-weight: bold; text-decoration: none; color: #99ccff;}
+a:hover {text-decoration: underline; color: #0080ff; font-size: 0.9em; font-family: Veranda, Geneva, sans-serif;}
 a:active {text-decoration: underline; color: #000000; font-size: 0.9em; font-family: Veranda, Geneva, sans-serif;}
+
+
 
 
    
