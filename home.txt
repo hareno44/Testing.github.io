@@ -8,8 +8,9 @@ body {background-image: url(CoffeePSD2.jpg)} </>
       <div id="navbar">
         <ul>
           <li><a href="home.html">Home</a></li>
-          <li><a href="archandart.html">Archiecture and Art</a></li>
-          <li><a href="uidesign.html">Front End Design</a></li>
+          <li><a href="architecture.html">Architecture</a></li>
+          <li><a href="design.html">Design</a></li>
+          <li><a href="art.html">Art</a></li>
           <li><a href="resume.html">Resume</a></li>
         </ul>
       </div>
@@ -17,8 +18,8 @@ body {background-image: url(CoffeePSD2.jpg)} </>
 </head>
 
 <body>
-<H1>This website is awesome</h1>
-<p>blah blah blah</p>
+<h1>Hello World</h1>
+<p>Something something something</p>
 </body>
 </div>
 </html>
