@@ -1,0 +1,26 @@
+<html>
+<div>
+  <head>
+    <title>Caroline's Resume Page</title>
+    <link type= "text/css" rel="stylesheet" href= "stylesheet.css"
+body {background-image: url(CoffeePSD2.jpg)} </> 
+<div id="header">
+      <div id="navbar">
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="architecture.html">Architecture</a></li>
+          <li><a href="design.html">Design</a></li>
+          <li><a href="art.html">Art</a></li>
+          <li><a href="resume.html">Resume</a></li>
+        </ul>
+      </div>
+</div>
+</head>
+
+<body>
+<h1>Hello World</h1>
+<p>something something something</p>
+</body>
+</div>
+</html>
+      
